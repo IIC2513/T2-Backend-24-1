@@ -93,88 +93,85 @@
 "userId": 1,
 "id": 1,
 "title": "Ritmo de Productividad",
-"postId": 1
+"postId": 1,
+"url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+"thumbnailUrl": "https://plus.unsplash.com/premium_photo-1665329006421-4e945f91885f?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },{
 "userId": 2,
 "id": 2,
 "title": "Aventuras en Horizontes Exóticos",
-"postId": 2
+"postId": 2,
+"url": "https://images.unsplash.com/photo-1616036740257-9449ea1f6605?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"             ,
+"thumbnailUrl": "https://images.unsplash.com/photo-1541959833400-049d37f98ccd?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },{
 "userId": 2,
 "id": 3,
 "title": "Misterios del Universo: Revelaciones Espaciales",
-"postId": 3
+"postId": 3,
+"url": "https://images.unsplash.com/photo-1541959833400-049d37f98ccd?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,          ,
+"thumbnailUrl": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },{
 "userId": 3,
 "id": 4,
 "title": "Pasarela Estival: La Onda de la Moda",
-"postId": 4
+"postId": 4,
+"url": "https://images.unsplash.com/photo-1613909671501-f9678ffc1d33?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+"thumbnailUrl": "https://plus.unsplash.com/premium_photo-1671198538581-5f4f214031d1?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 },{
 "userId": 3,
 "id": 5,
 "title": "Sabor y Sabiduría en la Cocina",
-"postId": 5
-}],
-"photos" : [
-{
-"albumId": 1,
-"id": 1,
-"title": "Mañana Productiva: Café y Planificación",
-"url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-"thumbnailUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG"
-},{
-"albumId": 1,
-"id": 2,
-"title": "Enfoque Total: Organizando el Espacio de Trabajo",
-"url": "https://plus.unsplash.com/premium_photo-1665329006421-4e945f91885f?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMj",
-"thumbnailUrl": "https://plus.unsplash.com/premium_photo-1665329006421-4e945f91885f?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-},{
-"albumId": 2,
-"id": 3,
-"title": "Atardecer en Paraíso: Playa de Arena Dorada",
-"url": "https://images.unsplash.com/photo-1616036740257-9449ea1f6605?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-"thumbnailUrl": "https://images.unsplash.com/photo-1616036740257-9449ea1f6605?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-},{
-"albumId": 2,
-"id": 4,
-"title": "Explorando la Selva: Encuentros con la Fauna Salvaje",
-"url": "https://images.unsplash.com/photo-1541959833400-049d37f98ccd?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-"thumbnailUrl": "https://images.unsplash.com/photo-1541959833400-049d37f98ccd?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-},{
-"albumId": 3,
-"id": 5,
-"title": "Galaxias Lejanas: Noche Estrellada sobre las Montañas",
-"url": "https://images.unsplash.com/photo-1541959833400-049d37f98ccd?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-"thumbnailUrl": "https://images.unsplash.com/photo-1541959833400-049d37f98ccd?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-},{
-"albumId": 3,
-"id": 6,
-"title": "Auroras Cósmicas: Danza de Colores en el Cielo Nocturno",
-"url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-"thumbnailUrl": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-},{
-"albumId": 4,
-"id": 7,
-"title": "Desfile de Moda: Elegancia y Glamour en la Pasarela",
-"url": "https://images.unsplash.com/photo-1613909671501-f9678ffc1d33?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-"thumbnailUrl": "https://images.unsplash.com/photo-1613909671501-f9678ffc1d33?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-},{
-"albumId": 4,
-"id": 8,
-"title": "Estilo Urbano: Streetwear en las Calles de la Ciudad",
-"url": "https://plus.unsplash.com/premium_photo-1671638524503-fd59983bda6c?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-"thumbnailUrl": "https://plus.unsplash.com/premium_photo-1671638524503-fd59983bda6c?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-},{
-"albumId": 5,
-"id": 9,
-"title": "Delicias Caseras: Plato Gourmet Preparado con Amor",
+"postId": 5,
 "url": "https://plus.unsplash.com/premium_photo-1671198538581-5f4f214031d1?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-"thumbnailUrl": "https://plus.unsplash.com/premium_photo-1671198538581-5f4f214031d1?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-},{
-"albumId": 5,
-"id": 10,
-"title": "Aventura Gastronómica: Descubriendo Sabores del Mundo",
-"url": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
 "thumbnailUrl": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+}],
+"comments" : [ 
+{"postId": 1,
+"id": 1,
+"name": "María Sánchez",
+"email": "maria.sanchez@example.cl",
+"body": "¡Excelente artículo! Estos consejos realmente han mejorado mi productividad en el trabajo. ¡Gracias por compartirlos!"
+},{
+"postId": 2,
+"id": 2,
+"name": "Javier López",
+"email": "javier.lopez@example.cl",
+"body": "¡Me encantaría visitar alguno de estos destinos! Parecen increíbles. Gracias por la recomendación."
+},{
+"postId": 3,
+"id": 3,
+"name": "Carolina Pérez",
+"email": "carolina.perez@example.cl",
+"body": "Interesante información sobre el espacio. ¡Siempre es fascinante aprender más sobre el universo!"
+},{
+"postId": 4,
+"id": 4,
+"name": "Pedro Rodríguez",
+"email": "pedro.rodriguez@example.cl",
+"body": "¡Gracias por compartir las tendencias de moda! ¡Definitivamente me mantendré al tanto de ellas!"
+},{
+"postId": 5,
+"id": 5,
+"name": "Camila González",
+"email": "camila.gonzalez@example.cl",
+"body": "Estos trucos culinarios son geniales. ¡Ya estoy ansiosa por probar algunas recetas nuevas!"
+},{
+"postId": 1,
+"id": 11,
+"name": "Ana Fernández",
+"email": "ana.fernandez@example.cl",
+"body": "¡Estos consejos son justo lo que necesitaba para ser más productiva en el trabajo! Gracias por compartirlos."
+},{
+"postId": 3,
+"id": 12,
+"name": "Gabriel Torres",
+"email": "gabriel.torres@example.cl",
+"body": "¡Increíble! Nunca me había detenido a pensar en estas curiosidades del espacio. ¡Gracias por ampliar mi conocimiento!"
+},{
+"postId": 5,
+"id": 13,
+"name": "Valeria Herrera",
+"email": "valeria.herrera@example.cl",
+"body": "Estos trucos culinarios son geniales. ¡Definitivamente los pondré en práctica en mi cocina!"
 }]
 }
