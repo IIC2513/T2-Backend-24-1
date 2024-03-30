@@ -41,24 +41,6 @@
           "id": 7,
           "title": "Los mejores consejos para alcanzar tus metas y hacer realidad tus sueños",
           "body": "El éxito no es un destino, sino un viaje. Sigue estos consejos para alcanzar tus metas y hacer realidad tus sueños. 💪🌟 #Motivación #Éxito"
-        },
-        {
-          "userId": 1,
-          "id": 8,
-          "title": "10 formas de hacer ejercicio sin pisar el gimnasio",
-          "body": "No necesitas un gimnasio para mantenerte en forma. Descubre estas alternativas y haz ejercicio donde quiera que estés. 💪🌳 #Ejercicio #Salud"
-        },
-        {
-          "userId": 2,
-          "id": 9,
-          "title": "Consejos prácticos para ahorrar dinero sin sacrificar tu calidad de vida",
-          "body": "No sacrifiques tu calidad de vida por tus finanzas. Aprende a ahorrar de manera inteligente y disfruta de tus ingresos al máximo. 💰💼 #FinanzasPersonales #Ahorro"
-        },
-        {
-          "userId": 3,
-          "id": 10,
-          "title": "¡Aprende un nuevo idioma de forma rápida y efectiva con estos recursos gratuitos!",
-          "body": "¡Aprender un nuevo idioma nunca ha sido tan fácil! Descubre recursos gratuitos que te ayudarán a dominar una nueva lengua en poco tiempo. 🌐🗣️ #Idiomas #Aprendizaje"
         }
     ],
 
@@ -185,27 +167,6 @@
         "body": "La motivación es clave para alcanzar nuestras metas. ¡Gracias por la inspiración!"
       },
       {
-        "postId": 8,
-        "id": 8,
-        "name": "Andrés Fernández",
-        "email": "andres.fernandez@example.cl",
-        "body": "Estos ejercicios sin necesidad de ir al gimnasio son perfectos para mantenernos activos. ¡Gracias por compartir!"
-      },
-      {
-        "postId": 9,
-        "id": 9,
-        "name": "Paula Morales",
-        "email": "paula.morales@example.cl",
-        "body": "¡Los consejos financieros son muy útiles! Siempre es bueno aprender a administrar mejor nuestro dinero."
-      },
-      {
-        "postId": 10,
-        "id": 10,
-        "name": "Matías Silva",
-        "email": "matias.silva@example.cl",
-        "body": "Gracias por compartir estos consejos para mejorar mi perfil de LinkedIn. ¡Son muy útiles!"
-      },
-      {
         "postId": 1,
         "id": 11,
         "name": "Ana Fernández",
@@ -232,13 +193,6 @@
         "name": "Rodrigo Pérez",
         "email": "rodrigo.perez@example.cl",
         "body": "¡Estos consejos son justo lo que necesitaba para motivarme a alcanzar mis metas! ¡Gracias por la inspiración!"
-      },
-      {
-        "postId": 9,
-        "id": 15,
-        "name": "Fernanda Salazar",
-        "email": "fernanda.salazar@example.cl",
-        "body": "¡Aprender a ahorrar sin sacrificar mi calidad de vida es exactamente lo que estaba buscando! Gracias por los consejos financieros."
       }
     
     ],
@@ -285,24 +239,6 @@
             "id": 7,
             "title": "Camino al Éxito: Inspiración y Metas",
             "postId": 7
-        },
-        {
-            "userId": 1,
-            "id": 8,
-            "title": "Naturaleza Activa: Ejercitando el Cuerpo Libremente",
-            "postId": 8
-        },
-        {
-            "userId": 2,
-            "id": 9,
-            "title": "Riqueza en Ahorro: Estrategias Financieras",
-            "postId": 9
-        },
-        {
-            "userId": 3,
-            "id": 10,
-            "title": "Idiomas del Mundo: Viaje Lingüístico",
-            "postId": 10
         }
     ],
 
@@ -405,48 +341,6 @@
             "title": "Cumbre Alcanzada: Celebrando Logros y Nuevas Metas",
             "url": "hhttps://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
             "thumbnailUrl": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-            "albumId": 8,
-            "id": 15,
-            "title": "Aire Libre: Corriendo por Senderos en la Montaña",
-            "url": "https://images.unsplash.com/photo-1528543606781-2f6e6857f318?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-            "thumbnailUrl": "https://images.unsplash.com/photo-1528543606781-2f6e6857f318?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-            "albumId": 8,
-            "id": 16,
-            "title": "Ciclismo en la Naturaleza: Aventura en Bicicleta por Bosques",
-            "url": "https://images.unsplash.com/photo-1575548393466-0df1618ba410?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-            "thumbnailUrl": "https://images.unsplash.com/photo-1575548393466-0df1618ba410?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-            "albumId": 9,
-            "id": 17,
-            "title": "Planificación Financiera: Creando un Futuro Próspero",
-            "url": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-            "thumbnailUrl": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-            "albumId": 9,
-            "id": 18,
-            "title": "Crecimiento Económico: Inversiones Inteligentes para el Éxito",
-            "url": "https://plus.unsplash.com/premium_photo-1674646022705-d9d8b1049000?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-            "thumbnailUrl": "https://plus.unsplash.com/premium_photo-1674646022705-d9d8b1049000?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-            "albumId": 10,
-            "id": 19,
-            "title": "Aprendizaje Continuo: Sumergiéndose en la Diversidad de Lenguas",
-            "url": "https://images.unsplash.com/photo-1601520525445-1039c1fa232b?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-            "thumbnailUrl": "https://images.unsplash.com/photo-1601520525445-1039c1fa232b?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-        },
-        {
-            "albumId": 10,
-            "id": 20,
-            "title": "Conversaciones Globales: Conectando Culturas a Través del Idioma",
-            "url": "https://images.unsplash.com/photo-1442570468985-f63ed5de9086?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
-            "thumbnailUrl": "https://images.unsplash.com/photo-1442570468985-f63ed5de9086?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         }
     ],
 
