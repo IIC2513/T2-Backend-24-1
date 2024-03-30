@@ -203,6 +203,322 @@
         }
     ],
 
+    "comments" : [ 
+        {
+        "postId": 1,
+        "id": 1,
+        "name": "María Sánchez",
+        "email": "maria.sanchez@example.cl",
+        "body": "¡Excelente artículo! Estos consejos realmente han mejorado mi productividad en el trabajo. ¡Gracias por compartirlos!"
+      }, 
+      {
+        "postId": 2,
+        "id": 2,
+        "name": "Javier López",
+        "email": "javier.lopez@example.cl",
+        "body": "¡Me encantaría visitar alguno de estos destinos! Parecen increíbles. Gracias por la recomendación."
+      },
+      {
+        "postId": 3,
+        "id": 3,
+        "name": "Carolina Pérez",
+        "email": "carolina.perez@example.cl",
+        "body": "Interesante información sobre el espacio. ¡Siempre es fascinante aprender más sobre el universo!"
+      },
+      {
+        "postId": 4,
+        "id": 4,
+        "name": "Pedro Rodríguez",
+        "email": "pedro.rodriguez@example.cl",
+        "body": "¡Gracias por compartir las tendencias de moda! ¡Definitivamente me mantendré al tanto de ellas!"
+      },
+      {
+        "postId": 5,
+        "id": 5,
+        "name": "Camila González",
+        "email": "camila.gonzalez@example.cl",
+        "body": "Estos trucos culinarios son geniales. ¡Ya estoy ansiosa por probar algunas recetas nuevas!"
+      },
+      {
+        "postId": 6,
+        "id": 6,
+        "name": "Diego Martínez",
+        "email": "diego.martinez@example.cl",
+        "body": "Es fundamental cuidar nuestra salud mental en estos tiempos. ¡Gracias por los consejos!"
+      },
+      {
+        "postId": 7,
+        "id": 7,
+        "name": "Valentina Herrera",
+        "email": "valentina.herrera@example.cl",
+        "body": "La motivación es clave para alcanzar nuestras metas. ¡Gracias por la inspiración!"
+      },
+      {
+        "postId": 8,
+        "id": 8,
+        "name": "Andrés Fernández",
+        "email": "andres.fernandez@example.cl",
+        "body": "Estos ejercicios sin necesidad de ir al gimnasio son perfectos para mantenernos activos. ¡Gracias por compartir!"
+      },
+      {
+        "postId": 9,
+        "id": 9,
+        "name": "Paula Morales",
+        "email": "paula.morales@example.cl",
+        "body": "¡Los consejos financieros son muy útiles! Siempre es bueno aprender a administrar mejor nuestro dinero."
+      },
+      {
+        "postId": 10,
+        "id": 10,
+        "name": "Matías Silva",
+        "email": "matias.silva@example.cl",
+        "body": "Gracias por compartir estos consejos para mejorar mi perfil de LinkedIn. ¡Son muy útiles!"
+      },
+      {
+        "postId": 1,
+        "id": 11,
+        "name": "Ana Fernández",
+        "email": "ana.fernandez@example.cl",
+        "body": "¡Estos consejos son justo lo que necesitaba para ser más productiva en el trabajo! Gracias por compartirlos."
+      },
+      {
+        "postId": 3,
+        "id": 12,
+        "name": "Gabriel Torres",
+        "email": "gabriel.torres@example.cl",
+        "body": "¡Increíble! Nunca me había detenido a pensar en estas curiosidades del espacio. ¡Gracias por ampliar mi conocimiento!"
+      },
+      {
+        "postId": 5,
+        "id": 13,
+        "name": "Valeria Herrera",
+        "email": "valeria.herrera@example.cl",
+        "body": "Estos trucos culinarios son geniales. ¡Definitivamente los pondré en práctica en mi cocina!"
+      },
+      {
+        "postId": 7,
+        "id": 14,
+        "name": "Rodrigo Pérez",
+        "email": "rodrigo.perez@example.cl",
+        "body": "¡Estos consejos son justo lo que necesitaba para motivarme a alcanzar mis metas! ¡Gracias por la inspiración!"
+      },
+      {
+        "postId": 9,
+        "id": 15,
+        "name": "Fernanda Salazar",
+        "email": "fernanda.salazar@example.cl",
+        "body": "¡Aprender a ahorrar sin sacrificar mi calidad de vida es exactamente lo que estaba buscando! Gracias por los consejos financieros."
+      }
+    
+    ],
+
+    "albums" : [
+        {
+        "userId": 1,
+        "id": 1,
+        "title": "Ritmo de Productividad",
+        "postId": 1
+        },
+        {
+            "userId": 2,
+            "id": 2,
+            "title": "Aventuras en Horizontes Exóticos",
+            "postId": 2
+        },
+        {
+            "userId": 2,
+            "id": 3,
+            "title": "Misterios del Universo: Revelaciones Espaciales",
+            "postId": 3
+        },
+        {
+            "userId": 3,
+            "id": 4,
+            "title": "Pasarela Estival: La Onda de la Moda",
+            "postId": 4
+        },
+        {
+            "userId": 4,
+            "id": 5,
+            "title": "Sabor y Sabiduría en la Cocina",
+            "postId": 5
+        },
+        {
+            "userId": 4,
+            "id": 6,
+            "title": "Armonía Mental: Tranquilidad en el Caos",
+            "postId": 6
+        },
+        {
+            "userId": 4,
+            "id": 7,
+            "title": "Camino al Éxito: Inspiración y Metas",
+            "postId": 7
+        },
+        {
+            "userId": 5,
+            "id": 8,
+            "title": "Naturaleza Activa: Ejercitando el Cuerpo Libremente",
+            "postId": 8
+        },
+        {
+            "userId": 5,
+            "id": 9,
+            "title": "Riqueza en Ahorro: Estrategias Financieras",
+            "postId": 9
+        },
+        {
+            "userId": 6,
+            "id": 10,
+            "title": "Idiomas del Mundo: Viaje Lingüístico",
+            "postId": 10
+        }
+    ],
+
+    "photos" : [
+        {
+            "albumId": 1,
+            "id": 1,
+            "title": "Mañana Productiva: Café y Planificación",
+            "url": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "thumbnailUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG"
+            
+        },
+        {
+            "albumId": 1,
+            "id": 2,
+            "title": "Enfoque Total: Organizando el Espacio de Trabajo",
+            "url": "https://plus.unsplash.com/premium_photo-1665329006421-4e945f91885f?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMj",
+            "thumbnailUrl": "https://plus.unsplash.com/premium_photo-1665329006421-4e945f91885f?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 2,
+            "id": 3,
+            "title": "Atardecer en Paraíso: Playa de Arena Dorada",
+            "url": "https://images.unsplash.com/photo-1616036740257-9449ea1f6605?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1616036740257-9449ea1f6605?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 2,
+            "id": 4,
+            "title": "Explorando la Selva: Encuentros con la Fauna Salvaje",
+            "url": "https://images.unsplash.com/photo-1541959833400-049d37f98ccd?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1541959833400-049d37f98ccd?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 3,
+            "id": 5,
+            "title": "Galaxias Lejanas: Noche Estrellada sobre las Montañas",
+            "url": "https://images.unsplash.com/photo-1541959833400-049d37f98ccd?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1541959833400-049d37f98ccd?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 3,
+            "id": 6,
+            "title": "Auroras Cósmicas: Danza de Colores en el Cielo Nocturno",
+            "url": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 4,
+            "id": 7,
+            "title": "Desfile de Moda: Elegancia y Glamour en la Pasarela",
+            "url": "https://images.unsplash.com/photo-1613909671501-f9678ffc1d33?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1613909671501-f9678ffc1d33?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 4,
+            "id": 8,
+            "title": "Estilo Urbano: Streetwear en las Calles de la Ciudad",
+            "url": "https://plus.unsplash.com/premium_photo-1671638524503-fd59983bda6c?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://plus.unsplash.com/premium_photo-1671638524503-fd59983bda6c?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 5,
+            "id": 9,
+            "title": "Delicias Caseras: Plato Gourmet Preparado con Amor",
+            "url": "https://plus.unsplash.com/premium_photo-1671198538581-5f4f214031d1?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://plus.unsplash.com/premium_photo-1671198538581-5f4f214031d1?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 5,
+            "id": 10,
+            "title": "Aventura Gastronómica: Descubriendo Sabores del Mundo",
+            "url": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 6,
+            "id": 11,
+            "title": "Momento Zen: Meditación en la Naturaleza",
+            "url": "https://plus.unsplash.com/premium_photo-1664442991353-06f46602ae8b?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://plus.unsplash.com/premium_photo-1664442991353-06f46602ae8b?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 6,
+            "id": 12,
+            "title": "Reflexión Interior: Paz en el Silencio de la Mente",
+            "url": "https://plus.unsplash.com/premium_photo-1661761629601-bf9436d058d2?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://plus.unsplash.com/premium_photo-1661761629601-bf9436d058d2?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 7,
+            "id": 13,
+            "title": "Pasos Firmes: Avanzando hacia el Éxito con Determinación",
+            "url": "https://images.unsplash.com/photo-1573633509389-0e3075dea01b?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1573633509389-0e3075dea01b?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 7,
+            "id": 14,
+            "title": "Cumbre Alcanzada: Celebrando Logros y Nuevas Metas",
+            "url": "hhttps://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 8,
+            "id": 15,
+            "title": "Aire Libre: Corriendo por Senderos en la Montaña",
+            "url": "https://images.unsplash.com/photo-1528543606781-2f6e6857f318?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1528543606781-2f6e6857f318?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 8,
+            "id": 16,
+            "title": "Ciclismo en la Naturaleza: Aventura en Bicicleta por Bosques",
+            "url": "https://images.unsplash.com/photo-1575548393466-0df1618ba410?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1575548393466-0df1618ba410?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 9,
+            "id": 17,
+            "title": "Planificación Financiera: Creando un Futuro Próspero",
+            "url": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 9,
+            "id": 18,
+            "title": "Crecimiento Económico: Inversiones Inteligentes para el Éxito",
+            "url": "https://plus.unsplash.com/premium_photo-1674646022705-d9d8b1049000?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://plus.unsplash.com/premium_photo-1674646022705-d9d8b1049000?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 10,
+            "id": 19,
+            "title": "Aprendizaje Continuo: Sumergiéndose en la Diversidad de Lenguas",
+            "url": "https://images.unsplash.com/photo-1601520525445-1039c1fa232b?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1601520525445-1039c1fa232b?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "albumId": 10,
+            "id": 20,
+            "title": "Conversaciones Globales: Conectando Culturas a Través del Idioma",
+            "url": "https://images.unsplash.com/photo-1442570468985-f63ed5de9086?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
+            "thumbnailUrl": "https://images.unsplash.com/photo-1442570468985-f63ed5de9086?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+    ],
+
     "profile": {
       "name": "IIC2513"
     }
