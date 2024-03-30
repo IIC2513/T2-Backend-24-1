@@ -26,7 +26,8 @@
 "title": "¿Quieres mejorar tus habilidades culinarias? Estos trucos te convertirán en un chef en poco tiempo",
 "body": "Mejora tus habilidades culinarias con estos consejos prácticos y sorprende a tus seres queridos con platos dignos de un chef profesional. 🍴👩‍🍳 #Cocina #Tips"
 }],
-"users": [{
+"users": [
+    {
 "id": 1,
 "name": "María González",
 "username": "MariaGonz",
@@ -136,7 +137,8 @@
 "email": "valeria.herrera@example.cl",
 "body": "Estos trucos culinarios son geniales. ¡Definitivamente los pondré en práctica en mi cocina!"
 }],
-"albums" : [{
+"albums" : [
+    {
 "userId": 1,
 "id": 1,
 "title": "Ritmo de Productividad",
@@ -223,6 +225,4 @@
 "title": "Aventura Gastronómica: Descubriendo Sabores del Mundo",
 "url": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=600&h=600&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"            ,
 "thumbnailUrl": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?q=80&w=150&h=150&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-}],
-"profile": {
-"name": "IIC2513"}}
+}]}
