@@ -25,37 +25,37 @@
           "body": "Renueva tu armario y sé la sensación del verano con las tendencias más candentes de la temporada. ¡Tu estilo, tu elección! 👗🌞 #Moda #Tendencias"
         },
         {
-          "userId": 4,
+          "userId": 3,
           "id": 5,
           "title": "¿Quieres mejorar tus habilidades culinarias? Estos trucos te convertirán en un chef en poco tiempo",
           "body": "Mejora tus habilidades culinarias con estos consejos prácticos y sorprende a tus seres queridos con platos dignos de un chef profesional. 🍴👩‍🍳 #Cocina #Tips"
         },
         {
-          "userId": 4,
+          "userId": 3,
           "id": 6,
           "title": "Descubre cómo mantener una mente saludable en un mundo estresante 🧘‍♂️🌿",
           "body": "La salud mental es tan importante como la física. Descubre cómo cuidar tu bienestar emocional en un mundo agitado y estresante 🧠💆‍♂️ #SaludMental #Bienestar"
         },
         {
-          "userId": 4,
+          "userId": 2,
           "id": 7,
           "title": "Los mejores consejos para alcanzar tus metas y hacer realidad tus sueños",
           "body": "El éxito no es un destino, sino un viaje. Sigue estos consejos para alcanzar tus metas y hacer realidad tus sueños. 💪🌟 #Motivación #Éxito"
         },
         {
-          "userId": 5,
+          "userId": 1,
           "id": 8,
           "title": "10 formas de hacer ejercicio sin pisar el gimnasio",
           "body": "No necesitas un gimnasio para mantenerte en forma. Descubre estas alternativas y haz ejercicio donde quiera que estés. 💪🌳 #Ejercicio #Salud"
         },
         {
-          "userId": 5,
+          "userId": 2,
           "id": 9,
           "title": "Consejos prácticos para ahorrar dinero sin sacrificar tu calidad de vida",
           "body": "No sacrifiques tu calidad de vida por tus finanzas. Aprende a ahorrar de manera inteligente y disfruta de tus ingresos al máximo. 💰💼 #FinanzasPersonales #Ahorro"
         },
         {
-          "userId": 6,
+          "userId": 3,
           "id": 10,
           "title": "¡Aprende un nuevo idioma de forma rápida y efectiva con estos recursos gratuitos!",
           "body": "¡Aprender un nuevo idioma nunca ha sido tan fácil! Descubre recursos gratuitos que te ayudarán a dominar una nueva lengua en poco tiempo. 🌐🗣️ #Idiomas #Aprendizaje"
@@ -129,75 +129,6 @@
             "company": {
                 "name": "Díaz Consulting",
                 "catchPhrase": "Descubre las curiosidades del espacio y expande tu mente",
-                "bs": "harness real-time e-markets"
-            }
-        },
-        {
-            "id": 4,
-            "name": "Alejandro Ramírez",
-            "username": "AleRam",
-            "email": "Alejandro.Ramirez@example.cl",
-            "address": {
-                "street": "Calle Merced 430",
-                "suite": "",
-                "city": "Concepción",
-                "zipcode": "",
-                "geo": {
-                "lat": "-36.8201",
-                "lng": "-73.0448"
-                }
-            },
-            "phone": "+56 9 5432 1098",
-            "website": "aleramirez.cl",
-            "company": {
-                "name": "Ramírez Innovations",
-                "catchPhrase": "Descubre las tendencias de moda que arrasarán este verano",
-                "bs": "harness real-time e-markets"
-            }
-        },
-        {
-            "id": 5,
-            "name": "Camila Silva",
-            "username": "CamiSil",
-            "email": "Camila.Silva@example.cl",
-            "address": {
-                "street": "Calle Maipú 800",
-                "suite": "",
-                "city": "Viña del Mar",
-                "zipcode": "",
-                "geo": {
-                "lat": "-33.0153",
-                "lng": "-71.5505"
-                }
-            },
-            "phone": "+56 9 4321 0987",
-            "website": "camilasilva.cl",
-            "company": {
-                "name": "Silva Fashion",
-                "catchPhrase": "Mejora tus habilidades culinarias y sorprende a todos con tus platos",
-                "bs": "harness real-time e-markets"
-            }
-        },
-        {
-            "id": 6,
-            "name": "Diego Morales",
-            "username": "DieMor",
-            "email": "Diego.Morales@example.cl",
-            "address": {
-                "street": "Calle Alameda 120",
-                "suite": "",
-                "city": "La Serena",
-                "zipcode": "",
-                "geo": {
-                "lat": "-29.9013",
-                "lng": "-71.2519"
-                }
-            },
-            "phone": "+56 9 3210 9876",
-            "website": "diegomorales.cl",
-            "company": {
-                "name": "Morales & Co.",
-                "catchPhrase": "Descubre cómo mantener una mente saludable en un mundo estresante",
                 "bs": "harness real-time e-markets"
             }
         }
@@ -314,10 +245,10 @@
 
     "albums" : [
         {
-        "userId": 1,
-        "id": 1,
-        "title": "Ritmo de Productividad",
-        "postId": 1
+            "userId": 1,
+            "id": 1,
+            "title": "Ritmo de Productividad",
+            "postId": 1
         },
         {
             "userId": 2,
@@ -338,37 +269,37 @@
             "postId": 4
         },
         {
-            "userId": 4,
+            "userId": 3,
             "id": 5,
             "title": "Sabor y Sabiduría en la Cocina",
             "postId": 5
         },
         {
-            "userId": 4,
+            "userId": 3,
             "id": 6,
             "title": "Armonía Mental: Tranquilidad en el Caos",
             "postId": 6
         },
         {
-            "userId": 4,
+            "userId": 2,
             "id": 7,
             "title": "Camino al Éxito: Inspiración y Metas",
             "postId": 7
         },
         {
-            "userId": 5,
+            "userId": 1,
             "id": 8,
             "title": "Naturaleza Activa: Ejercitando el Cuerpo Libremente",
             "postId": 8
         },
         {
-            "userId": 5,
+            "userId": 2,
             "id": 9,
             "title": "Riqueza en Ahorro: Estrategias Financieras",
             "postId": 9
         },
         {
-            "userId": 6,
+            "userId": 3,
             "id": 10,
             "title": "Idiomas del Mundo: Viaje Lingüístico",
             "postId": 10
