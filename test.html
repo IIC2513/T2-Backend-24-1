@@ -1,0 +1,38 @@
+<!-- Pequeño código para probar el link de las fotos -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Visualización de una imagen</title>
+</head>
+<body>
+
+<div id="image-container">
+  <img id="image" src="" alt="Imagen">
+</div>
+
+<script>
+window.onload = function() {
+  var productUrl = "https://api.escuelajs.co/api/v1/products/5";
+
+  var xhrProduct = new XMLHttpRequest();
+  xhrProduct.open("GET", productUrl, true);
+  xhrProduct.setRequestHeader("Accept", "*/*");
+  xhrProduct.onload = function() {
+    if (this.status === 200) {
+      var productData = JSON.parse(this.responseText);
+      var imageUrl = productData.images[1];
+
+      var imageElement = document.getElementById("image");
+
+      imageElement.src = imageUrl;
+    }
+  };
+  xhrProduct.send();
+};
+</script>
+
+</body>
+</html>
